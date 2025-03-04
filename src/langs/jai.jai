@@ -710,6 +710,8 @@ KEYWORDS :: string.[
 TYPE_KEYWORDS :: string.[
     "__reg", "bool", "float", "float32", "float64", "int", "reg", "s16", "s32", "s64", "s8", "string",
     "u16", "u32", "u64", "u8", "void", "v128", "Any", "Code", "Type",
+    // my utils
+    "f32", "f64", "vec2i", "vec4i", "vec2", "vec3", "vec4", "Color", "Callback",
 ];
 
 VALUE_KEYWORDS :: string.[
